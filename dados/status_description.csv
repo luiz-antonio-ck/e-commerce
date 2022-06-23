@@ -1,0 +1,6 @@
+order_status_id;description
+1;Aguardando pagamento
+2;Pagamento concluido
+3;Entregue
+4;Cancelado
+5;Devolucao
