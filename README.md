@@ -1,8 +1,8 @@
 # E-commerce
 
-Utilização de banco de dados para promover reengajamento da base de clientes.
-Utilizado neste repositório, conhecimento de negócio, vendas, SQL e Python com uma base de dados fictícia.
-A utilização de SQL será feita dentro do Python utilizando a biblioteca SQLITE3.
+Use of database to promote re-engagement of the customer base.
+Tools used in this project, knowledge of business, sales, SQL and Python with a fictitious database.
+The use of SQL will be done within Python using the SQLITE3 library.
 
-<strong> Utilize o Jupyter notebook para abrir o arquivo Case.ipynb com os arquivos baixados para teste </strong><br>
+<strong> Use Jupyter notebook to open the Case.ipynb file with the downloaded files for testing </strong><br>
 <a href="https://github.com/luiz-antonio-ck/e-commerce/blob/main/Case.ipynb" class="image fit">Case.ipynb - E-Commerce</a>
