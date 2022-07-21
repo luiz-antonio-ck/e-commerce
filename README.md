@@ -6,4 +6,5 @@ The use of SQL will be done within Python using the SQLITE3 library.
 
 <strong> Use Jupyter notebook to open the Case.ipynb file with the downloaded files for testing </strong><br>
 <a href="https://github.com/luiz-antonio-ck/e-commerce/blob/main/Case.ipynb" class="image fit">Case.ipynb - Português</a>
-<a href="https://github.com/luiz-antonio-ck/e-commerce/blob/main/Case.ipynb" class="image fit">Case.ipynb - English</a>
+
+<a href="https://github.com/luiz-antonio-ck/e-commerce/blob/main/Case%20-%20EN.ipynb" class="image fit">Case.ipynb - English</a>
